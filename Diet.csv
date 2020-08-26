@@ -1,0 +1,676 @@
+ ,Species,Feeding Group,Abundance,Pres.Abs,Copepod,Pteropod,Ostracod,Euphausiid,Mysid,Stomatopod,Decapods,Amphipod,Fish,Gelatinous zoop#,Squid,Polychaete
+ARAC 1,Argyropelecus aculeatus,Generalist,1,1,0,0,3,0,0,0,1,0,0,0,0,0
+ARAC 10,Argyropelecus aculeatus,Generalist,0,0,2,7,3,0,0,0,0,1,0,0,0,0
+ARAC 11,Argyropelecus aculeatus,Generalist,0,0,3,1,4,0,0,0,0,0,0,0,0,0
+ARAC 12,Argyropelecus aculeatus,Generalist,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+ARAC 13,Argyropelecus aculeatus,Generalist,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+ARAC 14,Argyropelecus aculeatus,Generalist,0,0,6,1,6,0,0,0,0,0,0,0,0,0
+ARAC 15,Argyropelecus aculeatus,Generalist,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+ARAC 16,Argyropelecus aculeatus,Generalist,0,0,0,3,2,0,0,0,0,0,0,0,0,0
+ARAC 17,Argyropelecus aculeatus,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARAC 18,Argyropelecus aculeatus,Generalist,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+ARAC 19,Argyropelecus aculeatus,Generalist,1,1,2,0,0,0,0,0,0,0,0,0,0,0
+ARAC 2,Argyropelecus aculeatus,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARAC 20,Argyropelecus aculeatus,Generalist,0,0,1,6,0,0,0,0,0,0,0,0,0,1
+ARAC 21,Argyropelecus aculeatus,Generalist,0,0,0,2,3,0,0,0,0,0,0,0,0,0
+ARAC 22,Argyropelecus aculeatus,Generalist,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARAC 23,Argyropelecus aculeatus,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARAC 24,Argyropelecus aculeatus,Generalist,0,0,0,5,1,0,0,0,0,0,0,0,0,0
+ARAC 25,Argyropelecus aculeatus,Generalist,2,1,0,0,0,0,0,0,1,0,0,0,0,0
+ARAC 26,Argyropelecus aculeatus,Generalist,0,0,0,3,0,0,0,0,0,0,2,0,0,0
+ARAC 27,Argyropelecus aculeatus,Generalist,1,1,2,1,0,1,0,0,1,0,0,0,0,0
+ARAC 28,Argyropelecus aculeatus,Generalist,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+ARAC 29,Argyropelecus aculeatus,Generalist,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ARAC 3,Argyropelecus aculeatus,Generalist,0,0,0,0,3,0,0,0,2,2,0,0,0,0
+ARAC 30,Argyropelecus aculeatus,Generalist,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+ARAC 4,Argyropelecus aculeatus,Generalist,1,1,2,0,5,0,0,0,0,1,0,0,0,0
+ARAC 5,Argyropelecus aculeatus,Generalist,0,0,0,1,7,0,0,0,0,1,0,0,0,0
+ARAC 6,Argyropelecus aculeatus,Generalist,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+ARAC 7,Argyropelecus aculeatus,Generalist,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+ARAC 8,Argyropelecus aculeatus,Generalist,0,0,1,3,2,0,0,0,0,1,0,0,0,0
+ARAC 9,Argyropelecus aculeatus,Generalist,0,0,1,13,0,0,0,0,0,0,0,0,0,0
+ARHE 1,Argyropelecus hemigymnus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARHE 10,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 11,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 12,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 13,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 14,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 15,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 16,Argyropelecus hemigymnus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARHE 17,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 18,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 19,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 2,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+ARHE 20,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 21,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 22,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 23,Argyropelecus hemigymnus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+ARHE 24,Argyropelecus hemigymnus,Copepodivore,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ARHE 25,Argyropelecus hemigymnus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+ARHE 26,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+ARHE 27,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 28,Argyropelecus hemigymnus,Copepodivore,0,0,4,0,0,0,0,0,1,0,0,0,0,0
+ARHE 29,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+ARHE 3,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 30,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 31,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+ARHE 32,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+ARHE 33,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 34,Argyropelecus hemigymnus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARHE 35,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 36,Argyropelecus hemigymnus,Copepodivore,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+ARHE 37,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 38,Argyropelecus hemigymnus,Copepodivore,1,1,0,0,2,0,0,0,0,0,0,0,0,0
+ARHE 39,Argyropelecus hemigymnus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+ARHE 4,Argyropelecus hemigymnus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARHE 40,Argyropelecus hemigymnus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARHE 41,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 42,Argyropelecus hemigymnus,Copepodivore,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+ARHE 43,Argyropelecus hemigymnus,Copepodivore,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 44,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ARHE 45,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 5,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+ARHE 6,Argyropelecus hemigymnus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+ARHE 7,Argyropelecus hemigymnus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+ARHE 8,Argyropelecus hemigymnus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ARHE 9,Argyropelecus hemigymnus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BESO 1,Benthosema suborbitale,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BESO 10,Benthosema suborbitale,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+BESO 11,Benthosema suborbitale,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+BESO 12,Benthosema suborbitale,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BESO 13,Benthosema suborbitale,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BESO 14,Benthosema suborbitale,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BESO 15,Benthosema suborbitale,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BESO 16,Benthosema suborbitale,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BESO 17,Benthosema suborbitale,Copepodivore,2,1,4,0,0,0,0,0,0,0,0,0,0,0
+BESO 18,Benthosema suborbitale,Copepodivore,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+BESO 19,Benthosema suborbitale,Copepodivore,0,0,15,0,0,0,0,0,2,0,0,0,0,0
+BESO 2,Benthosema suborbitale,Copepodivore,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+BESO 20,Benthosema suborbitale,Copepodivore,0,0,11,0,0,0,0,0,0,0,2,0,0,0
+BESO 21,Benthosema suborbitale,Copepodivore,2,1,6,0,2,0,0,0,0,0,1,0,0,0
+BESO 22,Benthosema suborbitale,Copepodivore,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+BESO 23,Benthosema suborbitale,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+BESO 3,Benthosema suborbitale,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BESO 4,Benthosema suborbitale,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BESO 5,Benthosema suborbitale,Copepodivore,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+BESO 6,Benthosema suborbitale,Copepodivore,1,1,2,0,0,0,0,0,0,0,1,0,0,0
+BESO 7,Benthosema suborbitale,Copepodivore,0,0,5,0,0,1,0,0,1,0,0,0,0,0
+BESO 8,Benthosema suborbitale,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BESO 9,Benthosema suborbitale,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CEWA 1,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+CEWA 10,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+CEWA 11,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CEWA 12,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+CEWA 13,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+CEWA 2,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CEWA 3,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CEWA 4,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,2,1,0,0,0,0,0,1,0,0,0,0
+CEWA 5,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+CEWA 6,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CEWA 7,Ceratoscopelus warmingii,Copepods and other mesozooplankton,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+CEWA 8,Ceratoscopelus warmingii,Copepods and other mesozooplankton,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+CEWA 9,Ceratoscopelus warmingii,Copepods and other mesozooplankton,0,0,3,2,0,0,0,0,0,2,0,0,0,0
+CYOB 1,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 10,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 11,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 12,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 13,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 14,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 15,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 16,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 17,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 18,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 19,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 2,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 20,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 21,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 22,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 23,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 24,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 25,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 26,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 27,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 28,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 29,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 3,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 30,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 31,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 32,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 33,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 34,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 35,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 36,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 37,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 38,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 39,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 4,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 40,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 41,Cyclothone obscura,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CYOB 42,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 43,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 44,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 45,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 46,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 47,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 48,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 49,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 5,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 50,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 51,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 52,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 53,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 54,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 55,Cyclothone obscura,Copepodivore,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CYOB 56,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 57,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 58,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 59,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 6,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 60,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 61,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 62,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 63,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 64,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 65,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 66,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 67,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 68,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 69,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 7,Cyclothone obscura,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CYOB 70,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 71,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 72,Cyclothone obscura,Copepodivore,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+CYOB 73,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 74,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 8,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CYOB 9,Cyclothone obscura,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DIDU 1,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,5,1,1,1,0,0,1,0,0,0,0,0
+DIDU 10,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,3,1,0,1,0,1,2,0,0,0,0,0
+DIDU 2,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,7,0,1,0,0,0,0,0,0,0,0,0
+DIDU 3,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,10,0,2,1,0,0,1,0,0,0,0,0
+DIDU 4,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,3,0,1,0,0,0,0,2,0,0,0,0
+DIDU 5,Diaphus dumerilii,Copepods and other mesozooplankton,1,1,11,0,0,0,0,0,0,2,1,0,0,0
+DIDU 6,Diaphus dumerilii,Copepods and other mesozooplankton,3,1,2,2,0,0,0,0,2,2,0,0,0,0
+DIDU 7,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DIDU 8,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,2,3,0,0,0,0,0,1,0,0,0,0
+DIDU 9,Diaphus dumerilii,Copepods and other mesozooplankton,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+DILU 1,Diaphus lucidus,Decapodivore,3,1,2,0,0,0,0,0,1,0,0,0,0,0
+DILU 2,Diaphus lucidus,Decapodivore,21,1,2,0,0,0,0,0,2,0,1,0,0,0
+DILU 3,Diaphus lucidus,Decapodivore,9,1,3,0,0,0,0,0,3,0,1,0,0,0
+DILU 4,Diaphus lucidus,Decapodivore,8,1,0,0,0,0,0,0,3,0,0,0,0,0
+DILU 5,Diaphus lucidus,Decapodivore,7,1,0,0,0,0,0,0,1,0,0,0,0,0
+DILU 6,Diaphus lucidus,Decapodivore,4,1,0,0,0,0,0,0,1,0,1,0,0,0
+DIMO 1,Diaphus mollis,Copepods and other mesozooplankton,4,1,2,0,0,0,0,0,0,0,0,0,0,1
+DIMO 2,Diaphus mollis,Copepods and other mesozooplankton,7,1,5,1,4,0,0,0,0,0,0,0,0,0
+DIMO 3,Diaphus mollis,Copepods and other mesozooplankton,11,1,3,0,0,0,0,0,0,0,0,0,0,0
+DIMO 4,Diaphus mollis,Copepods and other mesozooplankton,2,1,0,0,0,0,0,0,1,0,0,0,0,0
+DOLO 1,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 10,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 11,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 12,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DOLO 13,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DOLO 14,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DOLO 15,Dolicholagus  longirostris,Gelatinivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+DOLO 16,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DOLO 17,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DOLO 2,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 3,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 4,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 5,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 6,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 7,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 8,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DOLO 9,Dolicholagus  longirostris,Gelatinivore,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GOEL 1,Sigmops elongatus,General Zooplanktivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 10,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 11,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+GOEL 12,Sigmops elongatus,General Zooplanktivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GOEL 13,Sigmops elongatus,General Zooplanktivore,0,0,3,0,0,0,0,0,0,1,0,0,0,0
+GOEL 14,Sigmops elongatus,General Zooplanktivore,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+GOEL 15,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 16,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 17,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 18,Sigmops elongatus,General Zooplanktivore,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+GOEL 19,Sigmops elongatus,General Zooplanktivore,1,1,2,0,0,0,0,0,0,0,0,0,0,0
+GOEL 2,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+GOEL 20,Sigmops elongatus,General Zooplanktivore,0,0,4,0,1,0,0,0,1,0,0,0,0,0
+GOEL 21,Sigmops elongatus,General Zooplanktivore,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 22,Sigmops elongatus,General Zooplanktivore,2,1,0,0,0,0,0,0,2,0,1,0,0,0
+GOEL 23,Sigmops elongatus,General Zooplanktivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GOEL 24,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 25,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+GOEL 26,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 27,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 28,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 29,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 3,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+GOEL 30,Sigmops elongatus,General Zooplanktivore,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 31,Sigmops elongatus,General Zooplanktivore,1,1,0,0,0,0,0,0,2,1,0,0,0,0
+GOEL 32,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+GOEL 33,Sigmops elongatus,General Zooplanktivore,1,1,0,0,0,0,0,0,2,0,0,0,0,0
+GOEL 34,Sigmops elongatus,General Zooplanktivore,3,1,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 35,Sigmops elongatus,General Zooplanktivore,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 36,Sigmops elongatus,General Zooplanktivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 37,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 38,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 39,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 4,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 40,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 41,Sigmops elongatus,General Zooplanktivore,1,1,3,0,0,0,0,0,0,0,0,0,0,0
+GOEL 42,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+GOEL 43,Sigmops elongatus,General Zooplanktivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+GOEL 44,Sigmops elongatus,General Zooplanktivore,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+GOEL 45,Sigmops elongatus,General Zooplanktivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GOEL 46,Sigmops elongatus,General Zooplanktivore,1,1,1,0,0,0,0,0,1,0,2,0,0,0
+GOEL 47,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 48,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 49,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 5,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 50,Sigmops elongatus,General Zooplanktivore,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GOEL 51,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 52,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+GOEL 53,Sigmops elongatus,General Zooplanktivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GOEL 54,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 55,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 56,Sigmops elongatus,General Zooplanktivore,3,1,0,0,0,0,0,0,2,0,1,0,0,0
+GOEL 57,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+GOEL 58,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 59,Sigmops elongatus,General Zooplanktivore,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 6,Sigmops elongatus,General Zooplanktivore,1,1,1,0,1,0,0,0,2,0,0,0,0,0
+GOEL 60,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 61,Sigmops elongatus,General Zooplanktivore,2,1,1,0,0,0,0,0,1,0,0,0,0,0
+GOEL 62,Sigmops elongatus,General Zooplanktivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+GOEL 63,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 64,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 65,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 66,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GOEL 67,Sigmops elongatus,General Zooplanktivore,2,1,0,0,0,0,0,0,0,0,1,0,0,0
+GOEL 7,Sigmops elongatus,General Zooplanktivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOEL 8,Sigmops elongatus,General Zooplanktivore,1,1,0,0,0,0,0,0,2,0,0,0,0,0
+GOEL 9,Sigmops elongatus,General Zooplanktivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 1,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 10,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 100,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 101,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+LAAL 102,Lampanyctus alatus,Copepodivore,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+LAAL 103,Lampanyctus alatus,Copepodivore,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+LAAL 104,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 105,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+LAAL 106,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 107,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+LAAL 108,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+LAAL 109,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,1,0,0,0,0
+LAAL 11,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 110,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,1,0,0,0,0,0
+LAAL 111,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 112,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 113,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+LAAL 114,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 115,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 116,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 117,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 118,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,1,0,0,0,0,0
+LAAL 119,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,1,0,0,0,0,0
+LAAL 12,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 120,Lampanyctus alatus,Copepodivore,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 121,Lampanyctus alatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LAAL 122,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 123,Lampanyctus alatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LAAL 124,Lampanyctus alatus,Copepodivore,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+LAAL 125,Lampanyctus alatus,Copepodivore,0,0,4,0,1,0,0,0,2,0,0,0,0,0
+LAAL 126,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+LAAL 127,Lampanyctus alatus,Copepodivore,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 128,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 129,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 13,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 130,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 131,Lampanyctus alatus,Copepodivore,1,1,4,0,0,0,0,0,0,0,0,0,0,0
+LAAL 132,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 133,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 134,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 135,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 136,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 137,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 138,Lampanyctus alatus,Copepodivore,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+LAAL 139,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 14,Lampanyctus alatus,Copepodivore,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+LAAL 140,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 141,Lampanyctus alatus,Copepodivore,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+LAAL 142,Lampanyctus alatus,Copepodivore,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+LAAL 143,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 144,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 145,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 15,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 16,Lampanyctus alatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LAAL 17,Lampanyctus alatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LAAL 18,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 19,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 2,Lampanyctus alatus,Copepodivore,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+LAAL 20,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 21,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 22,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+LAAL 23,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,1,0,0
+LAAL 24,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 25,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 26,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 27,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 28,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 29,Lampanyctus alatus,Copepodivore,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+LAAL 3,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 30,Lampanyctus alatus,Copepodivore,1,1,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 31,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 32,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 33,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 34,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 35,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 36,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 37,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 38,Lampanyctus alatus,Copepodivore,0,0,3,0,0,1,0,0,1,0,0,0,0,0
+LAAL 39,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 4,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 40,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 41,Lampanyctus alatus,Copepodivore,0,0,3,0,0,1,0,0,1,0,0,0,0,0
+LAAL 42,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 43,Lampanyctus alatus,Copepodivore,0,0,1,0,2,0,0,0,0,0,0,0,0,0
+LAAL 44,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 45,Lampanyctus alatus,Copepodivore,0,0,4,0,0,0,0,0,2,1,0,0,0,0
+LAAL 46,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 47,Lampanyctus alatus,Copepodivore,0,0,5,0,0,0,0,0,1,0,0,0,0,0
+LAAL 48,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+LAAL 49,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 5,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 50,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 51,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 52,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,1,0,0,0,0,0
+LAAL 53,Lampanyctus alatus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+LAAL 54,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+LAAL 55,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 56,Lampanyctus alatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LAAL 57,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 58,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 59,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 6,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 60,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+LAAL 61,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 62,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 63,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 64,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+LAAL 65,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+LAAL 66,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 67,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 68,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+LAAL 69,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 7,Lampanyctus alatus,Copepodivore,0,0,8,0,0,1,0,0,1,0,0,0,0,0
+LAAL 70,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 71,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 72,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 73,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 74,Lampanyctus alatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LAAL 75,Lampanyctus alatus,Copepodivore,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+LAAL 76,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 77,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 78,Lampanyctus alatus,Copepodivore,1,1,3,0,1,0,0,0,1,0,0,0,0,0
+LAAL 79,Lampanyctus alatus,Copepodivore,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+LAAL 8,Lampanyctus alatus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+LAAL 80,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 81,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 82,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 83,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 84,Lampanyctus alatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAAL 85,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 86,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 87,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 88,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 89,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 9,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 90,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LAAL 91,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 92,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 93,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 94,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 95,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 96,Lampanyctus alatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LAAL 97,Lampanyctus alatus,Copepodivore,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+LAAL 98,Lampanyctus alatus,Copepodivore,0,0,4,0,0,0,0,1,1,0,0,0,0,0
+LAAL 99,Lampanyctus alatus,Copepodivore,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+LEGU 1,Lepidophanes guentheri,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LEGU 10,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 11,Lepidophanes guentheri,Copepodivore,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+LEGU 12,Lepidophanes guentheri,Copepodivore,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+LEGU 13,Lepidophanes guentheri,Copepodivore,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+LEGU 14,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 15,Lepidophanes guentheri,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LEGU 16,Lepidophanes guentheri,Copepodivore,0,0,8,0,0,1,0,0,1,0,0,0,0,0
+LEGU 17,Lepidophanes guentheri,Copepodivore,1,1,11,1,2,1,0,0,1,1,0,0,0,0
+LEGU 18,Lepidophanes guentheri,Copepodivore,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 19,Lepidophanes guentheri,Copepodivore,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+LEGU 2,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 20,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,1,0,0,1,0,0,0,0,0
+LEGU 21,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 22,Lepidophanes guentheri,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LEGU 23,Lepidophanes guentheri,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 24,Lepidophanes guentheri,Copepodivore,0,0,6,1,0,0,0,0,0,1,0,0,0,0
+LEGU 25,Lepidophanes guentheri,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+LEGU 26,Lepidophanes guentheri,Copepodivore,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+LEGU 27,Lepidophanes guentheri,Copepodivore,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+LEGU 28,Lepidophanes guentheri,Copepodivore,0,0,5,1,1,0,0,0,1,0,0,0,0,0
+LEGU 29,Lepidophanes guentheri,Copepodivore,0,0,2,0,1,0,0,0,0,1,0,0,0,0
+LEGU 3,Lepidophanes guentheri,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 30,Lepidophanes guentheri,Copepodivore,0,0,5,1,0,0,0,0,2,1,0,0,0,0
+LEGU 31,Lepidophanes guentheri,Copepodivore,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 32,Lepidophanes guentheri,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 33,Lepidophanes guentheri,Copepodivore,1,1,3,0,0,0,0,0,1,0,0,0,0,0
+LEGU 34,Lepidophanes guentheri,Copepodivore,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+LEGU 35,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 36,Lepidophanes guentheri,Copepodivore,1,1,8,0,0,0,0,0,0,0,0,0,0,0
+LEGU 37,Lepidophanes guentheri,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LEGU 38,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 39,Lepidophanes guentheri,Copepodivore,1,1,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 4,Lepidophanes guentheri,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LEGU 40,Lepidophanes guentheri,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+LEGU 41,Lepidophanes guentheri,Copepodivore,0,0,2,0,1,0,0,0,2,0,0,0,0,0
+LEGU 42,Lepidophanes guentheri,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LEGU 43,Lepidophanes guentheri,Copepodivore,1,1,4,0,1,0,0,0,0,0,0,0,0,0
+LEGU 44,Lepidophanes guentheri,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 45,Lepidophanes guentheri,Copepodivore,0,0,1,1,2,0,0,0,0,0,0,0,0,0
+LEGU 46,Lepidophanes guentheri,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LEGU 47,Lepidophanes guentheri,Copepodivore,0,0,4,0,1,0,0,0,1,0,0,0,0,0
+LEGU 5,Lepidophanes guentheri,Copepodivore,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+LEGU 6,Lepidophanes guentheri,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LEGU 7,Lepidophanes guentheri,Copepodivore,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+LEGU 8,Lepidophanes guentheri,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+LEGU 9,Lepidophanes guentheri,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NETR 1,Nealotus tripes,Piscivore,19,1,0,0,0,0,0,0,0,0,1,0,0,0
+NETR 10,Nealotus tripes,Piscivore,2,1,0,0,0,0,0,0,0,0,1,0,0,0
+NETR 11,Nealotus tripes,Piscivore,3,1,0,0,0,0,0,0,0,0,2,0,2,0
+NETR 12,Nealotus tripes,Piscivore,2,1,1,0,0,0,0,0,0,1,1,0,0,0
+NETR 13,Nealotus tripes,Piscivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+NETR 14,Nealotus tripes,Piscivore,0,0,0,0,0,0,4,0,1,0,0,0,0,0
+NETR 2,Nealotus tripes,Piscivore,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+NETR 3,Nealotus tripes,Piscivore,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+NETR 4,Nealotus tripes,Piscivore,9,1,0,0,0,0,0,0,0,0,3,0,2,0
+NETR 5,Nealotus tripes,Piscivore,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+NETR 6,Nealotus tripes,Piscivore,4,1,0,0,0,0,0,0,0,0,1,0,0,0
+NETR 7,Nealotus tripes,Piscivore,0,0,0,0,0,0,0,0,5,0,1,0,0,0
+NETR 8,Nealotus tripes,Piscivore,5,1,0,0,0,0,0,0,0,0,0,0,0,0
+NETR 9,Nealotus tripes,Piscivore,5,1,0,0,0,0,0,0,0,0,1,0,0,0
+PHGU 1,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 10,Photostomias guernei,Decapodivore,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+PHGU 11,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 12,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 13,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 14,Photostomias guernei,Decapodivore,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+PHGU 2,Photostomias guernei,Decapodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+PHGU 3,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 4,Photostomias guernei,Decapodivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 5,Photostomias guernei,Decapodivore,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+PHGU 6,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 7,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 8,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PHGU 9,Photostomias guernei,Decapodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 1,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 10,Scombrolabrax heterolepis,Piscivore,4,1,0,0,0,0,0,0,2,0,0,0,0,0
+SCHE 11,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+SCHE 12,Scombrolabrax heterolepis,Piscivore,3,1,0,0,0,0,0,0,0,0,0,0,2,0
+SCHE 13,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 14,Scombrolabrax heterolepis,Piscivore,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 15,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 16,Scombrolabrax heterolepis,Piscivore,5,1,0,0,0,0,0,0,0,0,6,0,0,0
+SCHE 17,Scombrolabrax heterolepis,Piscivore,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+SCHE 18,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,5,0,0,0
+SCHE 19,Scombrolabrax heterolepis,Piscivore,2,1,0,0,0,0,0,0,0,0,6,0,0,0
+SCHE 2,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,1,0,2,0,1,0,0,0
+SCHE 20,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,2,0,1,0,0,0
+SCHE 21,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,4,0,0,0
+SCHE 22,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SCHE 23,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 24,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 25,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 26,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 27,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 28,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,2,0,1,0,0,0
+SCHE 29,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 3,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+SCHE 30,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+SCHE 31,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+SCHE 4,Scombrolabrax heterolepis,Piscivore,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 5,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,0,0,2,0
+SCHE 6,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+SCHE 7,Scombrolabrax heterolepis,Piscivore,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 8,Scombrolabrax heterolepis,Piscivore,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+SCHE 9,Scombrolabrax heterolepis,Piscivore,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+STDI 1,Sternoptyx diaphana,Generalist,0,0,0,0,1,5,0,0,5,0,0,0,0,0
+STDI 10,Sternoptyx diaphana,Generalist,0,0,2,0,7,1,0,0,1,12,0,0,0,0
+STDI 11,Sternoptyx diaphana,Generalist,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+STDI 12,Sternoptyx diaphana,Generalist,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+STDI 13,Sternoptyx diaphana,Generalist,1,1,8,0,2,2,0,0,2,0,4,0,0,0
+STDI 14,Sternoptyx diaphana,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STDI 15,Sternoptyx diaphana,Generalist,0,0,2,0,8,1,0,0,1,1,3,0,0,0
+STDI 16,Sternoptyx diaphana,Generalist,0,0,8,0,12,0,0,0,0,1,2,0,0,0
+STDI 17,Sternoptyx diaphana,Generalist,0,0,11,0,4,1,0,0,1,0,0,0,0,0
+STDI 18,Sternoptyx diaphana,Generalist,0,0,1,0,0,1,0,0,1,1,0,0,0,0
+STDI 19,Sternoptyx diaphana,Generalist,1,1,0,0,18,4,0,0,4,0,3,0,0,0
+STDI 2,Sternoptyx diaphana,Generalist,0,0,2,0,0,0,3,0,3,2,0,0,0,0
+STDI 20,Sternoptyx diaphana,Generalist,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+STDI 21,Sternoptyx diaphana,Generalist,0,0,1,0,8,0,0,0,0,3,0,0,0,0
+STDI 22,Sternoptyx diaphana,Generalist,0,0,10,0,20,1,1,0,2,3,0,0,0,0
+STDI 23,Sternoptyx diaphana,Generalist,0,0,3,0,5,2,0,0,2,2,2,0,0,0
+STDI 24,Sternoptyx diaphana,Generalist,0,0,13,0,17,0,1,0,1,13,0,0,0,0
+STDI 25,Sternoptyx diaphana,Generalist,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+STDI 26,Sternoptyx diaphana,Generalist,0,0,9,0,8,0,0,0,0,1,0,0,0,0
+STDI 27,Sternoptyx diaphana,Generalist,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+STDI 28,Sternoptyx diaphana,Generalist,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+STDI 29,Sternoptyx diaphana,Generalist,0,0,1,0,1,0,0,0,6,0,4,0,0,0
+STDI 3,Sternoptyx diaphana,Generalist,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+STDI 30,Sternoptyx diaphana,Generalist,0,0,2,0,4,0,0,0,0,2,0,0,0,0
+STDI 31,Sternoptyx diaphana,Generalist,0,0,4,0,7,0,0,0,3,9,0,0,0,0
+STDI 32,Sternoptyx diaphana,Generalist,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+STDI 33,Sternoptyx diaphana,Generalist,0,0,0,0,3,0,0,0,5,0,2,0,0,0
+STDI 34,Sternoptyx diaphana,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STDI 35,Sternoptyx diaphana,Generalist,0,0,9,0,6,0,0,0,0,0,2,0,0,0
+STDI 36,Sternoptyx diaphana,Generalist,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+STDI 37,Sternoptyx diaphana,Generalist,0,0,1,0,2,0,0,0,0,0,0,0,0,0
+STDI 38,Sternoptyx diaphana,Generalist,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+STDI 39,Sternoptyx diaphana,Generalist,0,0,6,0,1,0,0,0,2,0,0,0,0,0
+STDI 4,Sternoptyx diaphana,Generalist,0,0,9,0,0,0,0,0,0,1,0,0,0,0
+STDI 40,Sternoptyx diaphana,Generalist,0,0,6,0,0,0,0,0,0,1,1,0,0,0
+STDI 41,Sternoptyx diaphana,Generalist,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+STDI 42,Sternoptyx diaphana,Generalist,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+STDI 43,Sternoptyx diaphana,Generalist,1,1,8,0,6,0,0,0,3,5,1,0,0,0
+STDI 44,Sternoptyx diaphana,Generalist,0,0,3,0,0,0,0,0,1,0,0,0,0,0
+STDI 45,Sternoptyx diaphana,Generalist,1,1,2,1,8,0,0,0,4,11,1,0,0,0
+STDI 46,Sternoptyx diaphana,Generalist,1,1,1,0,1,0,0,0,2,0,2,0,0,0
+STDI 47,Sternoptyx diaphana,Generalist,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+STDI 48,Sternoptyx diaphana,Generalist,0,0,8,0,1,0,0,0,3,0,1,0,0,0
+STDI 49,Sternoptyx diaphana,Generalist,0,0,1,0,5,0,0,0,1,1,0,0,0,0
+STDI 5,Sternoptyx diaphana,Generalist,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+STDI 50,Sternoptyx diaphana,Generalist,0,0,1,0,0,0,0,0,2,2,0,0,0,0
+STDI 51,Sternoptyx diaphana,Generalist,0,0,4,0,0,0,0,0,2,0,0,0,0,0
+STDI 52,Sternoptyx diaphana,Generalist,1,1,2,0,0,0,0,0,4,0,1,0,0,0
+STDI 53,Sternoptyx diaphana,Generalist,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+STDI 54,Sternoptyx diaphana,Generalist,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+STDI 55,Sternoptyx diaphana,Generalist,0,0,5,0,3,0,0,0,1,1,0,0,0,0
+STDI 56,Sternoptyx diaphana,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STDI 57,Sternoptyx diaphana,Generalist,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+STDI 58,Sternoptyx diaphana,Generalist,0,0,5,0,1,0,0,0,0,0,2,0,0,1
+STDI 59,Sternoptyx diaphana,Generalist,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+STDI 6,Sternoptyx diaphana,Generalist,0,0,0,0,0,1,0,0,1,2,2,0,0,0
+STDI 60,Sternoptyx diaphana,Generalist,1,1,0,0,0,0,0,0,0,1,1,0,0,0
+STDI 61,Sternoptyx diaphana,Generalist,7,1,1,0,0,3,0,0,0,0,1,0,0,0
+STDI 62,Sternoptyx diaphana,Generalist,4,1,2,0,1,0,0,0,0,1,0,0,0,0
+STDI 7,Sternoptyx diaphana,Generalist,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+STDI 8,Sternoptyx diaphana,Generalist,0,0,2,0,0,5,0,0,5,1,1,0,0,0
+STDI 9,Sternoptyx diaphana,Generalist,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+STPS 1,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+STPS 10,Sternoptyx pseudobscura,Generalist,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+STPS 11,Sternoptyx pseudobscura,Generalist,1,1,1,0,2,0,0,0,5,3,4,0,0,3
+STPS 12,Sternoptyx pseudobscura,Generalist,1,1,44,0,0,0,0,0,7,2,5,0,0,2
+STPS 13,Sternoptyx pseudobscura,Generalist,1,1,1,0,0,0,0,0,4,0,2,0,0,0
+STPS 14,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+STPS 15,Sternoptyx pseudobscura,Generalist,1,1,12,0,0,0,0,0,6,1,2,0,0,0
+STPS 16,Sternoptyx pseudobscura,Generalist,3,1,11,0,0,0,0,0,0,0,0,0,0,0
+STPS 17,Sternoptyx pseudobscura,Generalist,3,1,0,0,0,0,0,0,1,0,1,0,0,0
+STPS 18,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STPS 19,Sternoptyx pseudobscura,Generalist,3,1,0,0,0,0,0,0,2,0,4,0,1,0
+STPS 2,Sternoptyx pseudobscura,Generalist,1,1,1,0,0,1,0,0,1,0,0,0,0,0
+STPS 20,Sternoptyx pseudobscura,Generalist,2,1,5,0,0,0,0,0,5,2,3,0,1,0
+STPS 21,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,1,3,1,0,0,0
+STPS 22,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STPS 23,Sternoptyx pseudobscura,Generalist,1,1,17,0,0,0,0,0,9,0,0,0,0,0
+STPS 24,Sternoptyx pseudobscura,Generalist,1,1,31,0,0,0,0,0,5,0,0,0,0,0
+STPS 25,Sternoptyx pseudobscura,Generalist,0,0,2,0,0,0,0,0,4,2,4,0,0,0
+STPS 26,Sternoptyx pseudobscura,Generalist,0,0,13,0,5,0,0,0,6,19,1,0,0,0
+STPS 27,Sternoptyx pseudobscura,Generalist,1,1,0,0,0,1,3,0,0,37,0,0,0,0
+STPS 28,Sternoptyx pseudobscura,Generalist,0,0,1,0,0,18,1,0,0,7,0,0,0,1
+STPS 29,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,0,7,5,0,0,0
+STPS 3,Sternoptyx pseudobscura,Generalist,2,1,3,0,0,0,2,0,2,8,1,0,0,1
+STPS 30,Sternoptyx pseudobscura,Generalist,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+STPS 31,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+STPS 32,Sternoptyx pseudobscura,Generalist,2,1,0,0,0,1,0,1,2,5,0,0,0,1
+STPS 33,Sternoptyx pseudobscura,Generalist,0,0,0,0,3,1,3,0,4,23,1,0,0,2
+STPS 34,Sternoptyx pseudobscura,Generalist,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+STPS 35,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,0,11,1,0,0,2
+STPS 4,Sternoptyx pseudobscura,Generalist,0,0,0,0,0,0,0,0,28,22,0,0,0,0
+STPS 5,Sternoptyx pseudobscura,Generalist,2,1,2,0,0,0,0,0,1,5,1,0,0,0
+STPS 6,Sternoptyx pseudobscura,Generalist,1,1,0,0,0,0,0,0,3,3,1,0,0,0
+STPS 7,Sternoptyx pseudobscura,Generalist,1,1,2,0,0,0,0,0,2,7,0,0,0,0
+STPS 8,Sternoptyx pseudobscura,Generalist,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+STPS 9,Sternoptyx pseudobscura,Generalist,0,0,2,0,0,0,0,0,2,2,1,0,0,0
+VATR 1,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VATR 10,Valenciennelus tripunctulatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+VATR 11,Valenciennelus tripunctulatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+VATR 12,Valenciennelus tripunctulatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+VATR 13,Valenciennelus tripunctulatus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+VATR 14,Valenciennelus tripunctulatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+VATR 15,Valenciennelus tripunctulatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+VATR 16,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VATR 17,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 18,Valenciennelus tripunctulatus,Copepodivore,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+VATR 19,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 2,Valenciennelus tripunctulatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+VATR 20,Valenciennelus tripunctulatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+VATR 21,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VATR 22,Valenciennelus tripunctulatus,Copepodivore,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+VATR 23,Valenciennelus tripunctulatus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+VATR 24,Valenciennelus tripunctulatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+VATR 25,Valenciennelus tripunctulatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+VATR 26,Valenciennelus tripunctulatus,Copepodivore,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+VATR 27,Valenciennelus tripunctulatus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+VATR 28,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 29,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VATR 3,Valenciennelus tripunctulatus,Copepodivore,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+VATR 30,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 31,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VATR 32,Valenciennelus tripunctulatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+VATR 33,Valenciennelus tripunctulatus,Copepodivore,0,0,4,0,0,0,0,0,1,0,0,0,0,0
+VATR 34,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VATR 35,Valenciennelus tripunctulatus,Copepodivore,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+VATR 36,Valenciennelus tripunctulatus,Copepodivore,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+VATR 37,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 38,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 4,Valenciennelus tripunctulatus,Copepodivore,0,0,2,0,0,1,0,0,1,0,0,0,0,0
+VATR 5,Valenciennelus tripunctulatus,Copepodivore,0,0,3,0,1,1,0,0,1,1,0,0,0,0
+VATR 6,Valenciennelus tripunctulatus,Copepodivore,0,0,6,0,0,0,0,0,0,1,0,0,0,0
+VATR 7,Valenciennelus tripunctulatus,Copepodivore,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+VATR 8,Valenciennelus tripunctulatus,Copepodivore,0,0,6,0,0,0,0,0,0,1,0,0,0,0
+VATR 9,Valenciennelus tripunctulatus,Copepodivore,0,0,0,0,0,0,0,0,0,0,0,0,0,0
